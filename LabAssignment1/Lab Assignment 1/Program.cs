@@ -45,7 +45,7 @@ namespace Lab_Assignment_1
             fullName = System.Console.ReadLine();
 
             System.Console.Write("How old are you? ");
-            age = int.Parse(System.Console.ReadLine())
+            age = int.Parse(System.Console.ReadLine());
         } 
     }
 }
