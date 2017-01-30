@@ -1,1 +1,6 @@
 C:\Users\Anthony\Desktop\LabAssignment1\Lab Assignment 1\bin\Debug\Lab Assignment 1.exe.config
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment1\Lab Assignment 1\bin\Debug\Lab Assignment 1.exe.config
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment1\Lab Assignment 1\bin\Debug\Lab Assignment 1.exe
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment1\Lab Assignment 1\bin\Debug\Lab Assignment 1.pdb
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment1\Lab Assignment 1\obj\Debug\Lab Assignment 1.exe
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment1\Lab Assignment 1\obj\Debug\Lab Assignment 1.pdb
