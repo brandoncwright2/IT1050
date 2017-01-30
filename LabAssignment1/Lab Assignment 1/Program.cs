@@ -41,11 +41,28 @@ namespace Lab_Assignment_1
             System.Console.Write("What is your last name? ");
             lastName = System.Console.ReadLine();
 
-            System.Console.Write("What is your full name? ");
-            fullName = System.Console.ReadLine();
+            System.Console.Write("Your name is : ");
+            System.Console.WriteLine(fullName);
+
+            System.Console.Write("What is your height in feet? ");
+            heightFeet = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("How many inches added to your base height? ");
+            heightInches = double.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Total height in CM : ");
+            System.Console.WriteLine(totalHeightCM);
+            System.Console.ReadKey();
 
             System.Console.Write("How old are you? ");
-            age = int.Parse(System.Console.ReadLine())
-        } 
+            age = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Are you a United States Citizen? ");
+            isCitizen = bool.Parse(System.Console.ReadLine());
+
+            System.Console.Write("Are you eligible to vote? ");
+            System.Console.WriteLine(canVote);
+            System.Console.ReadKey();
+        }
     }
 }
