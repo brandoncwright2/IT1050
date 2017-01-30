@@ -1,1 +1,2 @@
 C:\Users\Anthony\Desktop\FirstSolution\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Anthony\Desktop\IT-1050\FirstSolution\FirstProject\bin\Debug\FirstProject.exe.config
