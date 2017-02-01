@@ -56,17 +56,13 @@ namespace Lab_Assignment_1
 
             System.Console.Write("How old are you? ");
             age = int.Parse(System.Console.ReadLine());
-<<<<<<< HEAD
 
             System.Console.Write("Are you a United States Citizen? ");
             isCitizen = bool.Parse(System.Console.ReadLine());
 
             System.Console.Write("Are you eligible to vote? ");
-            System.Console.WriteLine(canVote);
+            System.Console.WriteLine(canVote = true);
             System.Console.ReadKey();
         }
-=======
-        } 
->>>>>>> origin/master
     }
 }
