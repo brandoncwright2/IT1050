@@ -62,7 +62,7 @@ namespace Lab_Assignment_1
             isCitizen = bool.Parse(System.Console.ReadLine());
 
             System.Console.Write("Are you eligible to vote? ");
-            System.Console.WriteLine(canVote);
+            System.Console.WriteLine(canVote = true);
             System.Console.ReadKey();
         }
          
