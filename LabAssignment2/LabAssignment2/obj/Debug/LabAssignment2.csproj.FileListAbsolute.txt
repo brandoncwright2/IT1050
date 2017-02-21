@@ -4,3 +4,9 @@ C:\Users\Anthony\Desktop\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.
 C:\Users\Anthony\Desktop\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.csprojResolveAssemblyReference.cache
 C:\Users\Anthony\Desktop\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.exe
 C:\Users\Anthony\Desktop\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.pdb
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.exe.config
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.exe
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.pdb
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.exe
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.pdb
+C:\Users\Anthony\Desktop\IT-1050\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.csprojResolveAssemblyReference.cache

@@ -6,6 +6,7 @@
         public string FirstName;
         public string LastName;
         public int Age;
+        public static int Count;
 
         public string GetFullName()
         {
@@ -22,5 +23,6 @@
             System.Console.WriteLine("My age is " + this.Age);
         }
      
+
     }
 }
