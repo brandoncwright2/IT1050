@@ -8,8 +8,12 @@ namespace Lab_Assignment_1
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
-        {
+        
             string firstName;
             string middleInitial;
             string lastName;
@@ -37,7 +41,7 @@ namespace Lab_Assignment_1
 
             System.Console.Write("What is your middle initial? ");
             middleInitial = System.Console.ReadLine();
-
+              
             System.Console.Write("What is your last name? ");
             lastName = System.Console.ReadLine();
 
